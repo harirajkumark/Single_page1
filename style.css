@@ -565,7 +565,7 @@ a{
     margin-bottom:35px;
 }
 
-.price>button{
+.price>a{
     width:100%;
     height:60px;
     display:flex;
@@ -579,7 +579,7 @@ a{
     transition:.3s;
 }
 
-.price>button:hover{
+.price>a:hover{
     transform:scale(1.02);
     background:#9cf35b;
     color:#000;
